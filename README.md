@@ -1,5 +1,4 @@
-# School Network Design (CN Project)
-
+# School Network Design
 ![Cisco Packet Tracer](https://img.shields.io/badge/Simulation-Cisco_Packet_Tracer-blue)
 ![Network](https://img.shields.io/badge/Type-Network_Topology-green)
 
